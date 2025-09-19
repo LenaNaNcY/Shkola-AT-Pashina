@@ -13,6 +13,6 @@ public class Main {
 //		System.out.println(tr.detectTriangle());
 //	}
 
-		System.out.println("Merge Conflict 1");
+		System.out.println("Merge Conflict-1");
 	}
 }

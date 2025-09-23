@@ -19,7 +19,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="UT" target="1.8" />
+      <module name="UT" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

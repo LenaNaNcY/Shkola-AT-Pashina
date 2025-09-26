@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.ToString;
 
+
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -11,6 +12,9 @@ import java.util.stream.Collectors;
 @Data
 @AllArgsConstructor
 @ToString(includeFieldNames = true)
+/**
+ * что-нибудь
+ */
 class Student {
     private int id;
     private String name;
@@ -22,7 +26,7 @@ public class ListOfStudents {
 
     public static void main(String[] args) {
 
-            // Создаём коллекцию студентов нашего потока АТ
+        // Создаём коллекцию студентов нашего потока АТ
         List<Student> students = List.of(
                 new Student(1, "Elena", 17, 5),
                 new Student(2, "Alexey", 28, 4),
@@ -39,10 +43,10 @@ public class ListOfStudents {
 
         //2. Фильтранция студентов по возрасту, только старше 18ти
         System.out.println();
-          System.out.println("2. Adult Students");
-            students.stream()
+        System.out.println("2. Adult Students");
+        students.stream()
                 .filter(s -> s.getAge() > 18)
-                    .forEach(s -> System.out.println("IsEighteen: " + s.getName() + ", age: " + s.getAge()));
+                .forEach(s -> System.out.println("IsEighteen: " + s.getName() + ", age: " + s.getAge()));
 
 //        //3. Подсчет среднего значения оценок студентов
         System.out.println();
@@ -54,6 +58,7 @@ public class ListOfStudents {
         System.out.println(markAvg);
 
 //                //4. Сортировка студентов по оценкам в порядке убывания
+
         System.out.println();
         System.out.println("4. List of success of study DESC");
         students.stream()

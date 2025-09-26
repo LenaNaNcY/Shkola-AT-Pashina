@@ -35,7 +35,7 @@ public class Math {
                 m = java.lang.Math.pow(b, 3) + n * java.lang.Math.pow(a, 2);
                 System.out.println("m = " + m);
             }
-            System.out.println("Result: n = " + n + "m = " + m);
+            System.out.println("Result: n = " + n + " m = " + m);
         }
     }
 

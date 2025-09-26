@@ -7,16 +7,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/runner/Main.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork Math + renew .pom file">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lection3Lambda/ListOfStudents.java" afterDir="false" />
+    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork ListOfStudents + screenshots of Homeworks">
       <change afterPath="$PROJECT_DIR$/src/main/java/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ListOfStudents.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Math.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lection3Lambda/ListOfStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lection3Lambda/ListOfStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lection3Lambda/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lection3Lambda/Math.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +159,7 @@
       <recent name="C:\Users\Tishman\Desktop\EPAM\com.epam\UT\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListOfStudents">
+  <component name="RunManager" selected="Application.Math">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -290,9 +285,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Math" />
         <item itemvalue="Application.ListOfStudents" />
         <item itemvalue="Application.Train" />
-        <item itemvalue="Application.Math" />
         <item itemvalue="TestNG.testTriangleShape" />
         <item itemvalue="TestNG.testTriangleException" />
       </list>
@@ -311,7 +306,7 @@
       <updated>1520322527649</updated>
       <workItem from="1758283682528" duration="4374000" />
       <workItem from="1758637567418" duration="11357000" />
-      <workItem from="1758650620700" duration="6448000" />
+      <workItem from="1758650620700" duration="12441000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1758287213331</created>
@@ -341,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1758638175459</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HomeWork ListOfStudents + screenshots of Homeworks">
+      <created>1758657670659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758657670659</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -432,7 +434,8 @@
     <MESSAGE value="Commit 2 Conflict" />
     <MESSAGE value="Merge Conflict-1" />
     <MESSAGE value="HomeWork Math + renew .pom file" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork Math + renew .pom file" />
+    <MESSAGE value="HomeWork ListOfStudents + screenshots of Homeworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork ListOfStudents + screenshots of Homeworks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

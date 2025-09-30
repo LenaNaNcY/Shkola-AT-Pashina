@@ -3,11 +3,11 @@
 <suite name="allTests">
     <test name="AutoQA">
         <classes>
-            <class name="testTriangleCreationNegative"/>
-            <class name="testTriangleShape"/>
-            <class name="testTriangleCreationPositive"/>
-            <class name="testTriangleSquare"/>
-            <class name="testTriangleException"/>
+            <class name="FromRepoGleb.testTriangleCreationNegative"/>
+            <class name="FromRepoGleb.testTriangleShape"/>
+            <class name="FromRepoGleb.testTriangleCreationPositive"/>
+            <class name="FromRepoGleb.testTriangleSquare"/>
+            <class name="FromRepoGleb.testTriangleException"/>
         </classes>
     </test>
 </suite>

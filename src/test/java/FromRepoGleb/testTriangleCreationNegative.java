@@ -1,9 +1,12 @@
+package FromRepoGleb;
+
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import triangle.Triangle;
 
 public class testTriangleCreationNegative {
+
     @DataProvider(name = "negativeCreation")
     public Object[][] createTriangleWithMsg() {
         return new Object[][]{

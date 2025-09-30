@@ -44,6 +44,15 @@
                     </annotationProcessorPaths>
                 </configuration>
             </plugin>
+            <!-- Из репозитория Макса HeyArnoold/JUnit5-HW -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>3.2.5</version>
+                <configuration>
+                    <groups>SINGLE</groups>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 
@@ -67,6 +76,28 @@
             <version>${lombok.version}</version>
             <optional>true</optional> <!-- Lombok нужен только на этапе компиляции -->
         </dependency>
+
+        <!-- Из репозитория Макса HeyArnoold/JUnit5-HW -->
+<!--        <dependency>-->
+<!--            <groupId>org.junit.jupiter</groupId>-->
+<!--            <artifactId>junit-jupiter</artifactId>-->
+<!--            <version>5.12.2</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>7.10.0</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- Была ошибка "org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 140, returning the closest version; found: 139; Please update to a Selenium version that supports CDP version 140", погуглила - решение-->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.21.0</version> <!-- или новее -->
+        </dependency>
+
 
         <!-- JUnit Jupiter Engine -->
         <dependency>
@@ -93,6 +124,17 @@
             <artifactId>testng</artifactId>
             <version>6.9.13.5</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.11.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>7.10.0</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 

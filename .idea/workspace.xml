@@ -10,89 +10,17 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/runner/Main.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork ListOfStudents + screenshots of Homeworks">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_selenide_7_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_selenide_core_7_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_valfirst_browserup_proxy_browserup_proxy_core_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_41_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_incubator_1_38_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_38_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_semconv_opentelemetry_semconv_1_25_0_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jspecify_jspecify_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v123_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v124_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v125_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_os_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lection4JUnit5_1/HomeworkDemoQATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/api/FakeApiUserClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/dto/PageUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/CreateUserExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/ExceptionHandlerExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/RandomNumberExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/SetUpBrowserExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/TimingExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/UserResolverExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/anno/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/anno/SetUpBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/anno/UserAnno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/extensions/exeptions/BusinessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/DemoTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/ExtensionTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/LifecycleTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/ParameterizedTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/UserTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/web/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/web/DemoQAExtensionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/web/DemoQATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/test-data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_33_4_8_jre.xml" afterDir="false" />
+    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="Copy package com.example from Repo JUnit5-HW">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_2_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L4.Annotations_JUnit5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/homework-test-data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UT.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testTriangleCreationNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FromRepoGleb/testTriangleCreationNegative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testTriangleCreationPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FromRepoGleb/testTriangleCreationPositive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testTriangleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FromRepoGleb/testTriangleException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testTriangleShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FromRepoGleb/testTriangleShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testTriangleSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FromRepoGleb/testTriangleSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/allTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/allTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ListOfStudents.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/L3.ListOfStudents.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Math.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/L3.Math.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lection4JUnit5_1/HomeworkDemoQATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lection4JUnit5_1/L4_HomeworkDemoQATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/tests/web/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/web/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,20 +161,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "database.data.extractors.current.export.id": "CSV-Groovy.csv.groovy",
     "database.data.extractors.current.id": "CSV-Groovy.csv.groovy",
-    "last_opened_file_path": "C:/Users/epashina/Desktop/Юникредит/Школа АТ/Shkola-AT-Pashina",
+    "last_opened_file_path": "C:/Users/epashina/Desktop/Unikredit/Shkola_AT_v2/Shkola-AT-Pashina/src/test/resources",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources" />
       <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\java\MaterialsFromRepoHeyArnoold" />
       <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\resources" />
       <recent name="C:\Users\Tishman\Desktop\EPAM\com.epam\UT\src\test\resources" />
@@ -255,7 +189,7 @@
       <recent name="Lection4JUnit5_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DemoQATest.checkPageTitle (1)">
+  <component name="RunManager" selected="JUnit.L4_HomeworkDemoQATest.checkCardNavigation (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -268,86 +202,81 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoQATest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="L4_HomeworkDemoQATest.checkCardExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.tests.web.*" />
+          <option name="PATTERN" value="Lection4JUnit5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.tests.web" />
-      <option name="MAIN_CLASS_NAME" value="com.example.tests.web.DemoQATest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoQATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.tests.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.tests.web" />
-      <option name="MAIN_CLASS_NAME" value="com.example.tests.web.DemoQATest" />
-      <option name="METHOD_NAME" value="checkPageTitle" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoQATest.checkPageTitle (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.tests.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.tests.web" />
-      <option name="MAIN_CLASS_NAME" value="com.example.tests.web.DemoQATest" />
-      <option name="METHOD_NAME" value="checkPageTitle" />
+      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
+      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
+      <option name="METHOD_NAME" value="checkCardExists(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoQATest.checkPageTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="L4_HomeworkDemoQATest.checkCardNavigation (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.tests.web.*" />
+          <option name="PATTERN" value="Lection4JUnit5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.tests.web" />
-      <option name="MAIN_CLASS_NAME" value="com.example.tests.web.DemoQATest" />
-      <option name="METHOD_NAME" value="checkPageTitle" />
+      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
+      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
+      <option name="METHOD_NAME" value="checkCardNavigation(java.lang.String,com.example.dto.PageUrl)" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="L4_HomeworkDemoQATest.checkCardNavigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.tests.*" />
+          <option name="PATTERN" value="Lection4JUnit5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.example.tests.UserTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
+      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
+      <option name="METHOD_NAME" value="checkCardNavigation(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L4_HomeworkDemoQATest,checkPageTitle and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <patterns>
+        <pattern testClass="Lection4JUnit5_1.L4_HomeworkDemoQATest,checkPageTitle" />
+        <pattern testClass="Lection4JUnit5_1.L4_HomeworkDemoQATest,disabledTestExample" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L4_HomeworkDemoQATest.disabledTestExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection4JUnit5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
+      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
+      <option name="METHOD_NAME" value="disabledTestExample" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -397,20 +326,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DemoQATest" />
-      <item itemvalue="JUnit.DemoQATest (1)" />
-      <item itemvalue="JUnit.DemoQATest.checkPageTitle" />
-      <item itemvalue="JUnit.DemoQATest.checkPageTitle (1)" />
-      <item itemvalue="JUnit.UserTests" />
+      <item itemvalue="JUnit.L4_HomeworkDemoQATest,checkPageTitle and 1 more" />
+      <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation" />
+      <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation (1)" />
+      <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardExists" />
+      <item itemvalue="JUnit.L4_HomeworkDemoQATest.disabledTestExample" />
       <item itemvalue="TestNG.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DemoQATest.checkPageTitle (1)" />
-        <item itemvalue="JUnit.DemoQATest" />
-        <item itemvalue="JUnit.DemoQATest.checkPageTitle" />
-        <item itemvalue="JUnit.DemoQATest (1)" />
-        <item itemvalue="JUnit.UserTests" />
+        <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation (1)" />
+        <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation" />
+        <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardExists" />
+        <item itemvalue="JUnit.L4_HomeworkDemoQATest,checkPageTitle and 1 more" />
+        <item itemvalue="JUnit.L4_HomeworkDemoQATest.disabledTestExample" />
       </list>
     </recent_temporary>
   </component>
@@ -428,6 +357,10 @@
       <workItem from="1758283682528" duration="4374000" />
       <workItem from="1758637567418" duration="11357000" />
       <workItem from="1758650620700" duration="12441000" />
+      <workItem from="1759246095600" duration="4879000" />
+      <workItem from="1759409307080" duration="4364000" />
+      <workItem from="1759485520217" duration="882000" />
+      <workItem from="1759486438339" duration="11985000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1758287213331</created>
@@ -464,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1758657670659</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Copy package com.example from Repo JUnit5-HW">
+      <created>1759242936857</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759242936857</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -587,7 +527,8 @@
     <MESSAGE value="Merge Conflict-1" />
     <MESSAGE value="HomeWork Math + renew .pom file" />
     <MESSAGE value="HomeWork ListOfStudents + screenshots of Homeworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork ListOfStudents + screenshots of Homeworks" />
+    <MESSAGE value="Copy package com.example from Repo JUnit5-HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="Copy package com.example from Repo JUnit5-HW" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

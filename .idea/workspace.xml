@@ -10,17 +10,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/runner/Main.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="Copy package com.example from Repo JUnit5-HW">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_2_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/L4.Annotations_JUnit5_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/homework-test-data.csv" afterDir="false" />
+    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection4 Annotations JUnit5.1">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lection4JUnit5_2/L5_HomeworkSetUpBrowserExtension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ListOfStudents.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/L3.ListOfStudents.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Math.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/L3.Math.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Lection4JUnit5_1/HomeworkDemoQATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lection4JUnit5_1/L4_HomeworkDemoQATest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/tests/web/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/tests/web/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +173,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources" />
+      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources\HomeWorks_Screenshots" />
       <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\java\MaterialsFromRepoHeyArnoold" />
       <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\resources" />
       <recent name="C:\Users\Tishman\Desktop\EPAM\com.epam\UT\src\test\resources" />
@@ -360,7 +353,7 @@
       <workItem from="1759246095600" duration="4879000" />
       <workItem from="1759409307080" duration="4364000" />
       <workItem from="1759485520217" duration="882000" />
-      <workItem from="1759486438339" duration="11985000" />
+      <workItem from="1759486438339" duration="15421000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1758287213331</created>
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1759242936857</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HomeWork lection4 Annotations JUnit5.1">
+      <created>1759504022210</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759504022211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -528,7 +528,8 @@
     <MESSAGE value="HomeWork Math + renew .pom file" />
     <MESSAGE value="HomeWork ListOfStudents + screenshots of Homeworks" />
     <MESSAGE value="Copy package com.example from Repo JUnit5-HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="Copy package com.example from Repo JUnit5-HW" />
+    <MESSAGE value="HomeWork lection4 Annotations JUnit5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection4 Annotations JUnit5.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

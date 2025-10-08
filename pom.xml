@@ -14,19 +14,11 @@
         <maven.compiler.release>17</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <lombok.version>1.18.30</lombok.version> <!-- Свойство для хранения версии Lombok -->
+        <allure.version>2.29.0</allure.version>
+        <aspectj.version>1.9.22.1</aspectj.version>
     </properties>
     <build>
         <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.20.1</version>
-                <configuration>
-                    <suiteXmlFiles>
-                        <suiteXmlFile>src\test\resources\allTests.xml</suiteXmlFile>
-                    </suiteXmlFiles>
-                </configuration>
-            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -51,6 +43,27 @@
                 <version>3.2.5</version>
                 <configuration>
                     <groups>SINGLE</groups>
+                    <suiteXmlFiles>
+                        <suiteXmlFile>src\test\resources\allTests.xml</suiteXmlFile>
+                    </suiteXmlFiles>
+                    <!-- Добавила для аллюра 03.10.25 з репозитория Макса HeyArnoold/JUnit5-HW -->
+                    <testFailureIgnore>false</testFailureIgnore>
+
+                    <systemPropertyVariables>
+                        <allure.results.directory>target/allure-results</allure.results.directory>
+                    </systemPropertyVariables>
+                </configuration>
+            </plugin>
+            <!-- Плагин для аллюр отчёта из репозитория Макса HeyArnoold/JUnit5-HW -->
+            <plugin>
+                <groupId>io.qameta.allure</groupId>
+                <artifactId>allure-maven</artifactId>
+                <version>2.12.0</version>
+                <configuration>
+                    <reportVersion>${allure.version}</reportVersion>
+                    <!-- Добавила 2 строчки, когда папка аллюр создалась в корне проекта вместо пути test - target-->
+                    <reportDirectory>${project.build.directory}/allure-report</reportDirectory>
+                    <resultsDirectory>${project.build.directory}/allure-results</resultsDirectory>
                 </configuration>
             </plugin>
         </plugins>
@@ -105,6 +118,39 @@ WARNING: Unable to find an exact match for CDP version 140, returning the closes
             <scope>test</scope>
         </dependency>
 
+        <!-- Зависимости для аллюр отчёта из репозитория Макса HeyArnoold/JUnit5-HW-->
+        <!-- Allure JUnit 5 -->
+        <!-- Allure JUnit 5 Adapter -->
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-attachments</artifactId>
+            <version>${allure.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-junit5</artifactId>
+            <version>${allure.version}</version>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.junit.jupiter</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-selenide</artifactId>
+            <version>${allure.version}</version>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.codeborne</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
 
         <!-- JUnit Jupiter Engine -->
         <dependency>
@@ -117,7 +163,7 @@ WARNING: Unable to find an exact match for CDP version 140, returning the closes
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
-            <scope>test</scope>
+            <version>5.11.0</version>
         </dependency>
 
         <!-- Optional: Parameterized tests support -->
@@ -131,17 +177,6 @@ WARNING: Unable to find an exact match for CDP version 140, returning the closes
             <artifactId>testng</artifactId>
             <version>6.9.13.5</version>
             <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.11.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.codeborne</groupId>
-            <artifactId>selenide</artifactId>
-            <version>7.10.0</version>
-            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>org.jetbrains</groupId>

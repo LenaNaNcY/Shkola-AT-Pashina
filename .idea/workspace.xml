@@ -10,9 +10,25 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/runner/Main.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection4 Annotations JUnit5.1">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lection4JUnit5_2/L5_HomeworkSetUpBrowserExtension.java" afterDir="false" />
+    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection5 Extensions JUnit5.2">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_attachments_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_junit5_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_junit_platform_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_model_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_selenide_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_test_filter_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/parallel/ParallClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/parallel/ParallClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/parallel/ParallClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/parallel/ParallClass4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,22 +167,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "database.data.extractors.current.export.id": "CSV-Groovy.csv.groovy",
-    "database.data.extractors.current.id": "CSV-Groovy.csv.groovy",
-    "last_opened_file_path": "C:/Users/epashina/Desktop/Unikredit/Shkola_AT_v2/Shkola-AT-Pashina/src/test/resources",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/epashina/Desktop/Unikredit/Shkola_AT_v2/Shkola-AT-Pashina/src/test/resources&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
@@ -179,10 +195,11 @@
       <recent name="C:\Users\Tishman\Desktop\EPAM\com.epam\UT\src\test\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.parallel" />
       <recent name="Lection4JUnit5_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.L4_HomeworkDemoQATest.checkCardNavigation (1)">
+  <component name="RunManager" selected="JUnit.com.example.parallel in UT">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -195,81 +212,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L4_HomeworkDemoQATest.checkCardExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParallClass1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lection4JUnit5_1.*" />
+          <option name="PATTERN" value="com.example.parallel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
-      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
-      <option name="METHOD_NAME" value="checkCardExists(java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.example.parallel" />
+      <option name="MAIN_CLASS_NAME" value="com.example.parallel.ParallClass1" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L4_HomeworkDemoQATest.checkCardNavigation (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParameterizedTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lection4JUnit5_1.*" />
+          <option name="PATTERN" value="com.example.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
-      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
-      <option name="METHOD_NAME" value="checkCardNavigation(java.lang.String,com.example.dto.PageUrl)" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L4_HomeworkDemoQATest.checkCardNavigation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4JUnit5_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
-      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
-      <option name="METHOD_NAME" value="checkCardNavigation(java.lang.String,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L4_HomeworkDemoQATest,checkPageTitle and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <option name="TEST_OBJECT" value="pattern" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <patterns>
-        <pattern testClass="Lection4JUnit5_1.L4_HomeworkDemoQATest,checkPageTitle" />
-        <pattern testClass="Lection4JUnit5_1.L4_HomeworkDemoQATest,disabledTestExample" />
-      </patterns>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L4_HomeworkDemoQATest.disabledTestExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lection4JUnit5_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Lection4JUnit5_1" />
-      <option name="MAIN_CLASS_NAME" value="Lection4JUnit5_1.L4_HomeworkDemoQATest" />
-      <option name="METHOD_NAME" value="disabledTestExample" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.example.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.tests.ParameterizedTests" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -277,6 +246,51 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.parallel in UT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.parallel" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.tests in UT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.tests.web in UT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.tests.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.tests.web" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -319,20 +333,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.L4_HomeworkDemoQATest,checkPageTitle and 1 more" />
-      <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation" />
-      <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation (1)" />
-      <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardExists" />
-      <item itemvalue="JUnit.L4_HomeworkDemoQATest.disabledTestExample" />
+      <item itemvalue="JUnit.ParallClass1" />
+      <item itemvalue="JUnit.com.example.parallel in UT" />
+      <item itemvalue="JUnit.com.example.tests.web in UT" />
+      <item itemvalue="JUnit.ParameterizedTests" />
+      <item itemvalue="JUnit.com.example.tests in UT" />
       <item itemvalue="TestNG.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation (1)" />
-        <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardNavigation" />
-        <item itemvalue="JUnit.L4_HomeworkDemoQATest.checkCardExists" />
-        <item itemvalue="JUnit.L4_HomeworkDemoQATest,checkPageTitle and 1 more" />
-        <item itemvalue="JUnit.L4_HomeworkDemoQATest.disabledTestExample" />
+        <item itemvalue="JUnit.com.example.parallel in UT" />
+        <item itemvalue="JUnit.ParallClass1" />
+        <item itemvalue="JUnit.com.example.tests in UT" />
+        <item itemvalue="JUnit.ParameterizedTests" />
+        <item itemvalue="JUnit.com.example.tests.web in UT" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +367,8 @@
       <workItem from="1759246095600" duration="4879000" />
       <workItem from="1759409307080" duration="4364000" />
       <workItem from="1759485520217" duration="882000" />
-      <workItem from="1759486438339" duration="15421000" />
+      <workItem from="1759486438339" duration="20786000" />
+      <workItem from="1759923861856" duration="9854000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1758287213331</created>
@@ -404,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1759504022211</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HomeWork lection5 Extensions JUnit5.2">
+      <created>1759507507989</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759507507989</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -529,7 +551,8 @@
     <MESSAGE value="HomeWork ListOfStudents + screenshots of Homeworks" />
     <MESSAGE value="Copy package com.example from Repo JUnit5-HW" />
     <MESSAGE value="HomeWork lection4 Annotations JUnit5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection4 Annotations JUnit5.1" />
+    <MESSAGE value="HomeWork lection5 Extensions JUnit5.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection5 Extensions JUnit5.2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

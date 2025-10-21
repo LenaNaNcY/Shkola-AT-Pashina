@@ -10,12 +10,21 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/runner/Main.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection6 Parallel JUnit5.3 (package parallel + files junit-platform.properties &amp; allure.properties &amp; .pom renew)">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/L7.Selenium_Part1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumDRAFT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumTests.java" afterDir="false" />
+    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection7 Selenium p.1 - homework in class &quot;SeleniumTests&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/driver/WebDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pages/DemoqaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pages/ElementsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pages/FormsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pages/PracticeFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/pages/TextBoxFormPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L8.Selenium_Part2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumPageObjectTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumXpathDraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/TryWinDPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumDRAFT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumDRAFT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,8 +184,8 @@
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources" />
+      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources\HomeWorks_Screenshots" />
       <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\java\MaterialsFromRepoHeyArnoold" />
       <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\resources" />
@@ -186,7 +195,7 @@
       <recent name="Lection4JUnit5_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SeleniumTests">
+  <component name="RunManager" selected="JUnit.SeleniumPageObjectTests">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -199,23 +208,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallClass1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.parallel" />
-      <option name="MAIN_CLASS_NAME" value="com.example.parallel.ParallClass1" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeleniumTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumPageObjectTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
@@ -224,8 +217,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.example.Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.example.Selenium.SeleniumTests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Selenium.SeleniumPageObjectTests" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumPageObjectTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Selenium.SeleniumPageObjectTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -248,38 +258,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
+    <configuration name="TryWinDPI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Selenium.TryWinDPI" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.parallel in UT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TryWinDPI.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.parallel.*" />
+          <option name="PATTERN" value="com.example.Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.parallel" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="com.example.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Selenium.TryWinDPI" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.tests in UT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.tests" />
-      <option name="TEST_OBJECT" value="package" />
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -322,20 +335,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ParallClass1" />
-      <item itemvalue="JUnit.SeleniumTests" />
+      <item itemvalue="JUnit.SeleniumPageObjectTests" />
+      <item itemvalue="JUnit.SeleniumPageObjectTests.test" />
+      <item itemvalue="JUnit.TryWinDPI" />
+      <item itemvalue="JUnit.TryWinDPI.test" />
       <item itemvalue="JUnit.SeleniumTests.test" />
-      <item itemvalue="JUnit.com.example.parallel in UT" />
-      <item itemvalue="JUnit.com.example.tests in UT" />
       <item itemvalue="TestNG.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SeleniumTests" />
+        <item itemvalue="JUnit.SeleniumPageObjectTests" />
+        <item itemvalue="JUnit.SeleniumPageObjectTests.test" />
         <item itemvalue="JUnit.SeleniumTests.test" />
-        <item itemvalue="JUnit.com.example.parallel in UT" />
-        <item itemvalue="JUnit.ParallClass1" />
-        <item itemvalue="JUnit.com.example.tests in UT" />
+        <item itemvalue="JUnit.TryWinDPI" />
+        <item itemvalue="JUnit.TryWinDPI.test" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +371,11 @@
       <workItem from="1759485520217" duration="882000" />
       <workItem from="1759486438339" duration="20786000" />
       <workItem from="1759923861856" duration="30553000" />
-      <workItem from="1760345932773" duration="3585000" />
+      <workItem from="1760345932773" duration="23455000" />
+      <workItem from="1760456889641" duration="358000" />
+      <workItem from="1760457333533" duration="2303000" />
+      <workItem from="1760459678617" duration="1905000" />
+      <workItem from="1761055846650" duration="12963000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1758287213331</created>
@@ -423,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1759935660820</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HomeWork lection7 Selenium p.1 - homework in class &quot;SeleniumTests&quot;">
+      <created>1760351285218</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760351285218</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -550,7 +574,8 @@
     <MESSAGE value="HomeWork lection4 Annotations JUnit5.1" />
     <MESSAGE value="HomeWork lection5 Extensions JUnit5.2" />
     <MESSAGE value="HomeWork lection6 Parallel JUnit5.3 (package parallel + files junit-platform.properties &amp; allure.properties &amp; .pom renew)" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection6 Parallel JUnit5.3 (package parallel + files junit-platform.properties &amp; allure.properties &amp; .pom renew)" />
+    <MESSAGE value="HomeWork lection7 Selenium p.1 - homework in class &quot;SeleniumTests&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection7 Selenium p.1 - homework in class &quot;SeleniumTests&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

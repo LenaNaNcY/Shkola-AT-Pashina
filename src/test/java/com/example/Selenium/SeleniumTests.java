@@ -11,6 +11,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.lang.module.Configuration;
 import java.time.Duration;
 import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
@@ -21,10 +22,17 @@ public class SeleniumTests {
     void test() {
 
       System.setProperty("webdriver.chrome.driver", "C:\\Users\\epashina\\Desktop\\Unikredit\\Shkola_AT_v2\\chromedriver-win64\\chromedriver.exe");
-      WebDriver driver = new ChromeDriver(); // инициализируем наш драйвер
+
+        //пытаемся отключить настройки масштабирования винды 150% конкретно для тестов
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--force-device-scale-factor=1");
+        options.addArguments("--high-dpi-support=1");
+        options.addArguments("--window-size=1920,1080");
+
+      WebDriver driver = new ChromeDriver(options); // инициализируем наш драйвер
 
             driver.manage().deleteAllCookies(); // удаление всех кук
-            driver.manage().window().maximize(); // работа с
+            driver.manage().window().maximize(); // работа с окном
 
         driver.get("https://demoqa.com/"); // передача урла
         // неявное ожидание
@@ -34,7 +42,7 @@ public class SeleniumTests {
         //проверяем, что вкладка Elements присутствует, и кликаем по ней
         WebElement elementsTab = driver.findElement(By.xpath("//h5[text()='Elements']"));
         // без строчки с прокруткой тест не работает и падает, ибо экран маленький, и текст эл-та не видит
-        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", elementsTab);
+       ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", elementsTab);
         elementsTab.click(); //кликаем по плашке с текстом Элементс
 
         //проверяем, что вкладка Text Box присутствует, и кликаем по ней

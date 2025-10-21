@@ -79,6 +79,6 @@ public class SeleniumDRAFT {
         Assertions.assertEquals("Name:Привет", output.getText(), "Название не соответствует введённому значению");
         // проверяем, что внизу вывелось
 
-        driver.quit(); // метод close закрывает всё
+        driver.quit(); // метод закрывает всё
     }
 }

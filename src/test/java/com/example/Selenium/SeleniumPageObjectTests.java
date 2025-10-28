@@ -56,6 +56,7 @@ void test() {
 
         // Проверить, что форма сброшена
         Assertions.assertTrue(practiceFormPage.isFormReset(), "Форма не сброшена после отправки");
+
     }
     }
 

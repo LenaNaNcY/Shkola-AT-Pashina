@@ -10,11 +10,32 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/runner/Main.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection8 Selenium p.2 - Test in class SeleniumPageObjectTests">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/L10.Selenide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenide/SelenideTests.java" afterDir="false" />
+    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection10 Selenide - Test in class SelenideTests">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_ci_environment_8_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_messages_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_platform_engine_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_7_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_html_formatter_17_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_messages_17_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_commons_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_engine_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L11-12.Cucumber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lection11_12Cucumber/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lection11_12Cucumber/steps/CucumberStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lection11_12Cucumber/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Cucumber.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumPageObjectTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/Selenium/SeleniumPageObjectTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +98,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -166,7 +190,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -174,18 +198,21 @@
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources\features" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources\HomeWorks_Screenshots" />
       <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\java\MaterialsFromRepoHeyArnoold" />
-      <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.parallel" />
       <recent name="Lection4JUnit5_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SelenideTests">
+  <component name="RunManager" selected="JUnit.Runner">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -198,34 +225,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: : ТК_3" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Cucumber.feature" />
+      <option name="GLUE" value="Lection11_12Cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="UT" />
+      <option name="NAME_FILTER" value="^\: ТК_3$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^\: ТК_3$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: : ТК_3" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Selenide.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.Selenide" />
-      <option name="MAIN_CLASS_NAME" value="com.example.Selenide.SelenideTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideTests.TK_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: ТК_1 (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Cucumber.feature" />
+      <option name="GLUE" value="Lection11_12Cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="UT" />
+      <option name="NAME_FILTER" value="^ТК_1$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^ТК_1$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: ТК_1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Selenide.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.Selenide" />
-      <option name="MAIN_CLASS_NAME" value="com.example.Selenide.SelenideTests" />
-      <option name="METHOD_NAME" value="TK_1" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: ТК_2" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Cucumber.feature" />
+      <option name="GLUE" value="Lection11_12Cucumber.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="UT" />
+      <option name="NAME_FILTER" value="^ТК_2$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^ТК_2$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: ТК_2" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lection11_12Cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lection11_12Cucumber" />
+      <option name="MAIN_CLASS_NAME" value="Lection11_12Cucumber.Runner" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -243,39 +313,6 @@
       <option name="MAIN_CLASS_NAME" value="com.example.Selenide.SelenideTests" />
       <option name="METHOD_NAME" value="TK_2" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelenideTests.TK_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Selenide.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.Selenide" />
-      <option name="MAIN_CLASS_NAME" value="com.example.Selenide.SelenideTests" />
-      <option name="METHOD_NAME" value="TK_3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeleniumPageObjectTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.example.Selenium.SeleniumPageObjectTests" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -325,20 +362,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SelenideTests.TK_3" />
-      <item itemvalue="JUnit.SelenideTests" />
-      <item itemvalue="JUnit.SelenideTests.TK_1" />
+      <item itemvalue="Cucumber Java.Scenario: : ТК_3" />
+      <item itemvalue="Cucumber Java.Scenario: ТК_1 (1)" />
+      <item itemvalue="Cucumber Java.Scenario: ТК_2" />
+      <item itemvalue="JUnit.Runner" />
       <item itemvalue="JUnit.SelenideTests.TK_2" />
-      <item itemvalue="JUnit.SeleniumPageObjectTests" />
       <item itemvalue="TestNG.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SelenideTests" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: : ТК_3" />
+        <item itemvalue="Cucumber Java.Scenario: ТК_1 (1)" />
+        <item itemvalue="Cucumber Java.Scenario: ТК_2" />
         <item itemvalue="JUnit.SelenideTests.TK_2" />
-        <item itemvalue="JUnit.SelenideTests.TK_3" />
-        <item itemvalue="JUnit.SelenideTests.TK_1" />
-        <item itemvalue="JUnit.SeleniumPageObjectTests" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +404,13 @@
       <workItem from="1760459678617" duration="1905000" />
       <workItem from="1761055846650" duration="13525000" />
       <workItem from="1761295203842" duration="22875000" />
-      <workItem from="1761641488922" duration="7681000" />
+      <workItem from="1761641488922" duration="8622000" />
+      <workItem from="1762340916897" duration="2545000" />
+      <workItem from="1762780492183" duration="8664000" />
+      <workItem from="1762792979454" duration="11883000" />
+      <workItem from="1763721192845" duration="1724000" />
+      <workItem from="1763722950551" duration="12057000" />
+      <workItem from="1763740956128" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1758287213331</created>
@@ -446,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1761069183859</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HomeWork lection10 Selenide - Test in class SelenideTests">
+      <created>1761665951622</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761665951622</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -575,7 +625,8 @@
     <MESSAGE value="HomeWork lection6 Parallel JUnit5.3 (package parallel + files junit-platform.properties &amp; allure.properties &amp; .pom renew)" />
     <MESSAGE value="HomeWork lection7 Selenium p.1 - homework in class &quot;SeleniumTests&quot;" />
     <MESSAGE value="HomeWork lection8 Selenium p.2 - Test in class SeleniumPageObjectTests" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection8 Selenium p.2 - Test in class SeleniumPageObjectTests" />
+    <MESSAGE value="HomeWork lection10 Selenide - Test in class SelenideTests" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection10 Selenide - Test in class SelenideTests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">

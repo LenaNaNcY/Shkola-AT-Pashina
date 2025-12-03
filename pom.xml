@@ -52,8 +52,18 @@
                     <systemPropertyVariables>
                         <allure.results.directory>target/allure-results</allure.results.directory>
                     </systemPropertyVariables>
+                    <!-- Добавила для аллюра 03.12.25 чтоб "слушать степы"-->
+                    <argLine>
+                        -javaagent:${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar
+                    </argLine>
+
                 </configuration>
+
+
+
             </plugin>
+
+
             <!-- Плагин для аллюр отчёта из репозитория Макса HeyArnoold/JUnit5-HW -->
             <plugin>
                 <groupId>io.qameta.allure</groupId>
@@ -85,6 +95,12 @@
                 <version>7.2.3</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <!-- Добавила для аллюра 03.12.25 какого-то агента чтоб "слушать степы"-->
+            <dependency>
+                <groupId>org.aspectj</groupId>
+                <artifactId>aspectjweaver</artifactId>
+                <version>${aspectj.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
@@ -159,6 +175,28 @@ Please update to a Selenium version that supports CDP version 140", погугл
                     <artifactId>*</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+        <!-- Доп.зависимости Allure из лекции -->
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-java-commons</artifactId>
+            <version>${allure.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-junit-platform</artifactId>
+            <version>${allure.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-commandline</artifactId>
+            <version>${allure.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>${aspectj.version}</version>
+            <scope>runtime</scope>
         </dependency>
 
         <!-- JUnit Jupiter Engine -->

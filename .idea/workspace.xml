@@ -10,29 +10,59 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/runner/Main.java" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection10 Selenide - Test in class SelenideTests">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_ci_environment_8_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_15_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_messages_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_platform_engine_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_7_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_html_formatter_17_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_messages_17_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_1_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_commons_1_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_engine_1_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/L11-12.Cucumber.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lection11_12Cucumber/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lection11_12Cucumber/steps/CucumberStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lection11_12Cucumber/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Cucumber.feature" afterDir="false" />
+    <list default="true" id="76f74249-a5ea-4afc-a2db-2632ca29d3b1" name="Default" comment="HomeWork lection11-12 Cucumber">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_baev_jaxb_utils_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_opencsv_opencsv_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_tables_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_ast_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_builder_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_collection_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_data_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_dependency_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_format_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_html_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_misc_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_options_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_sequence_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_visitor_0_62_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_commandline_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_generator_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_plugin_api_2_29_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_allurefw_allure1_model_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_53_v20231009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_53_v20231009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_53_v20231009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_53_v20231009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_qatools_commons_properties_2_0_RC5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/L15.Allure/L15.Allure_Task.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/Allure/SelenideTestsAllure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UT.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -198,21 +228,22 @@
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources\L15.Allure" />
+      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources\HomeWorks_Screenshots" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources\features" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources" />
       <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\test\resources" />
-      <recent name="C:\Users\epashina\Desktop\Unikredit\Shkola_AT_v2\Shkola-AT-Pashina\src\main\resources\HomeWorks_Screenshots" />
-      <recent name="C:\Users\epashina\Desktop\Юникредит\Школа АТ\Shkola-AT-Pashina\src\main\java\MaterialsFromRepoHeyArnoold" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.Selenide" />
       <recent name="com.example.parallel" />
       <recent name="Lection4JUnit5_1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Runner">
+  <component name="RunManager" selected="JUnit.SelenideTestsAllure">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -265,26 +296,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: ТК_2" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Cucumber.feature" />
-      <option name="GLUE" value="Lection11_12Cucumber.steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="UT" />
-      <option name="NAME_FILTER" value="^ТК_2$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^ТК_2$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: ТК_2" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
@@ -301,17 +312,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelenideTests.TK_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SelenideTestsAllure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.Selenide.*" />
+          <option name="PATTERN" value="com.example.Allure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.Selenide" />
-      <option name="MAIN_CLASS_NAME" value="com.example.Selenide.SelenideTests" />
-      <option name="METHOD_NAME" value="TK_2" />
+      <option name="PACKAGE_NAME" value="com.example.Allure" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Allure.SelenideTestsAllure" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelenideTestsAllure.TK_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Allure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Allure" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Allure.SelenideTestsAllure" />
+      <option name="METHOD_NAME" value="TK_1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -364,18 +391,18 @@
     <list>
       <item itemvalue="Cucumber Java.Scenario: : ТК_3" />
       <item itemvalue="Cucumber Java.Scenario: ТК_1 (1)" />
-      <item itemvalue="Cucumber Java.Scenario: ТК_2" />
+      <item itemvalue="JUnit.SelenideTestsAllure" />
+      <item itemvalue="JUnit.SelenideTestsAllure.TK_1" />
       <item itemvalue="JUnit.Runner" />
-      <item itemvalue="JUnit.SelenideTests.TK_2" />
       <item itemvalue="TestNG.Unnamed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SelenideTestsAllure" />
+        <item itemvalue="JUnit.SelenideTestsAllure.TK_1" />
         <item itemvalue="JUnit.Runner" />
         <item itemvalue="Cucumber Java.Scenario: : ТК_3" />
         <item itemvalue="Cucumber Java.Scenario: ТК_1 (1)" />
-        <item itemvalue="Cucumber Java.Scenario: ТК_2" />
-        <item itemvalue="JUnit.SelenideTests.TK_2" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +437,9 @@
       <workItem from="1762792979454" duration="11883000" />
       <workItem from="1763721192845" duration="1724000" />
       <workItem from="1763722950551" duration="12057000" />
-      <workItem from="1763740956128" duration="927000" />
+      <workItem from="1763740956128" duration="1018000" />
+      <workItem from="1763970717425" duration="648000" />
+      <workItem from="1764762878328" duration="11083000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1758287213331</created>
@@ -496,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1761665951622</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HomeWork lection11-12 Cucumber">
+      <created>1763741910209</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1763741910209</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -626,7 +662,8 @@
     <MESSAGE value="HomeWork lection7 Selenium p.1 - homework in class &quot;SeleniumTests&quot;" />
     <MESSAGE value="HomeWork lection8 Selenium p.2 - Test in class SeleniumPageObjectTests" />
     <MESSAGE value="HomeWork lection10 Selenide - Test in class SelenideTests" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection10 Selenide - Test in class SelenideTests" />
+    <MESSAGE value="HomeWork lection11-12 Cucumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork lection11-12 Cucumber" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
